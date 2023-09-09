@@ -1,0 +1,10 @@
+flask
+numpy
+pandas
+torch
+torch-geometric
+neo4j
+neo4j-driver
+community
+networkx
+gunicorn==21.2.0
